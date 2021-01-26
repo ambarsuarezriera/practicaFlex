@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    /* ------properties css  style ------*/
+    background-color: brown;
+    padding: 10px;
+    height: 1000px;
+    
+    /*-------properties flexbox---------*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+
+.item {
+     /* ------properties css  style ------*/
+    background-color: cyan;
+    border: thick solid cornflowerblue;
+    width: 33.33%;
+    
+    
+
+    /*-------properties flexbox---------*/
+
+}
