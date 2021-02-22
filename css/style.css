@@ -1,5 +1,13 @@
 * {
     box-sizing: border-box;
+
+}
+
+body {
+
+    margin: 0;
+	padding: 0;
+	
 }
 
 .container {
@@ -12,7 +20,9 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    
 
 }
 
@@ -21,8 +31,8 @@
      /* ------properties css  style ------*/
     background-color: cyan;
     border: thick solid cornflowerblue;
-    width: 33.33%;
-    
+    width: 25%;
+    margin: 10px;
     
 
     /*-------properties flexbox---------*/
