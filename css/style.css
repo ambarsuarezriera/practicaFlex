@@ -12,7 +12,7 @@ body {
 
 .container {
     /* ------properties css  style ------*/
-    background-color: brown;
+    background-color: #01579b;
     padding: 10px;
     height: 1000px;
     
@@ -29,8 +29,8 @@ body {
 
 .item {
      /* ------properties css  style ------*/
-    background-color: cyan;
-    border: thick solid cornflowerblue;
+    background-color: #ffff00;
+    border: thick solid black;
     width: 25%;
     margin: 10px;
     
